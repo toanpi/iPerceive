@@ -1,6 +1,6 @@
 # iPerceive: Applying Common-Sense Reasoning to Multi-Modal Dense Video Captioning and Video Question Answering
 
-<a href=""><p align=center><img src="https://github.com/amanchadha/iPerceive/blob/master/wacv.jpg"/></p></a>
+<a href=""><p align=center><img src="https://github.com/amanchadha/iPerceive/blob/master/wacv.png"/></p></a>
 
 Project for Stanford CS231n: CS231n: Convolutional Neural Networks for Visual Recognition. Published in **IEEE Winter Conference on Applications of Computer Vision (WACV) 2021**.
 This is the official PyTorch implementation of our paper.
