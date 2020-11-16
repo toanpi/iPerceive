@@ -22,20 +22,18 @@ Most of the previous works in visual understanding, rely solely on understanding
 If you found our work interesting, please cite it as:
 
 ```
-@article{Chadha2020iSeeBetter,
-  title={{i}{S}ee{B}etter: Spatio-Temporal Video Super-Resolution using Recurrent Generative Back-Projection Networks},
-  author={Chadha, Aman and Britto, John and Roja, Mani M.},
-  journal={Springer Journal of Computational Visual Media, September 2020, Tsinghua University Press},
-  volume={6},
-  number={3},
-  pages={307-317},
-  year={2020},
-  publisher={Springer}
+@article{Chadha2020iPerceive,
+  title={{i}{P}erceive: Applying Common-Sense Reasoning to Multi-Modal Dense Video Captioning and Video Question Answering},
+  author={Chadha, Aman and Arora, Gurneet and Kaloty, Navpreet},
+  journal={2021 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  pages={1-13},
+  year={2021},
+  publisher={IEEE}
 }
 ```
 
 ```
-A. Chadha, J. Britto and M. M. Roja. iSeeBetter: Spatio-Temporal Video Super-Resolution using Recurrent Generative Back-Projection Networks. Springer Journal of Computational Visual Media, Tsinghua University Press, 6(3):1–11, 2020.
+A. Chadha, G. Arora and N. Kaloty. iPerceive: Applying Common-Sense Reasoning to Multi-Modal Dense Video Captioning and Video Question Answering, pp. 1–13, 2021.
 ```
 
 ## Architecture
