@@ -1,6 +1,6 @@
 # iPerceive: Applying Common-Sense Reasoning to Multi-Modal Dense Video Captioning and Video Question Answering
 
-![WACV 2021](https://github.com/amanchadha/iSeeBetter/blob/master/wacv.jpg)
+<a href=""><p align=center><img src="https://github.com/amanchadha/iPerceive/blob/master/wacv.jpg"/></p></a>
 
 Project for Stanford CS231n: CS231n: Convolutional Neural Networks for Visual Recognition. Published in **IEEE Winter Conference on Applications of Computer Vision (WACV) 2021**.
 This is the official PyTorch implementation of our paper.
@@ -19,9 +19,23 @@ Most of the previous works in visual understanding, rely solely on understanding
  Another common drawback of current methods is that they train the event proposal and captioning model either separately or in alternation, which prevents direct influence of the proposal based on the caption. To address this, we adopt an end-to-end Transformer architecture. % Using ablation studies, we demonstrate a considerable contribution from audio and speech components suggesting that these modalities contain substantial complementary information to video frames. By evaluating the performance of iPerceive DVC and iPerceive VideoQA on the ActivityNet Captions and TVQA datasets respectively, we show that our approach furthers the state-of-the-art.
 
 ## Citation
-If you found our work interesting, please cite the work as:
+If you found our work interesting, please cite it as:
+
 ```
-Publication WIP
+@article{Chadha2020iSeeBetter,
+  title={{i}{S}ee{B}etter: Spatio-Temporal Video Super-Resolution using Recurrent Generative Back-Projection Networks},
+  author={Chadha, Aman and Britto, John and Roja, Mani M.},
+  journal={Springer Journal of Computational Visual Media, September 2020, Tsinghua University Press},
+  volume={6},
+  number={3},
+  pages={307-317},
+  year={2020},
+  publisher={Springer}
+}
+```
+
+```
+A. Chadha, J. Britto and M. M. Roja. iSeeBetter: Spatio-Temporal Video Super-Resolution using Recurrent Generative Back-Projection Networks. Springer Journal of Computational Visual Media, Tsinghua University Press, 6(3):1–11, 2020.
 ```
 
 ## Architecture
