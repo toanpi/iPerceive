@@ -5,9 +5,9 @@
 Project for Stanford CS231n: CS231n: Convolutional Neural Networks for Visual Recognition. Published in **IEEE Winter Conference on Applications of Computer Vision (WACV) 2021**.
 This is the official PyTorch implementation of our paper.
 
-## PDF: **[arXiv](https://arxiv.org/abs/2011.07735)** | **[amanchadha.com](https://amanchadha.com/research/iPerceiveWACV2021.pdf)**
+### PDF: **[arXiv](https://arxiv.org/abs/2011.07735)** | **[amanchadha.com](https://amanchadha.com/research/iPerceiveWACV2021.pdf)**
 
-## Misc: **[Presentation](https://amanchadha.com/projects/ai/cnn/iPerceive.pdf) | [YouTube](https://www.youtube.com/watch?v=cLdd0vkKrBc) | <a href="https://paperswithcode.com/paper/iperceive-applying-common-sense-reasoning-to">PapersWithCode</a> | <a href="https://www.researchgate.net/publication/345970024_iPerceive_Applying_Common-Sense_Reasoning_to_Multi-Modal_Dense_Video_Captioning_and_Video_Question_Answering">ResearchGate</a> | <a href="https://www.mendeley.com/catalogue/d82d54c9-0243-3292-a9d5-a0702ed1e278//">Mendeley</a>**
+### Misc: **[Presentation](https://amanchadha.com/projects/ai/cnn/iPerceive.pdf) | [YouTube](https://www.youtube.com/watch?v=cLdd0vkKrBc) | <a href="https://paperswithcode.com/paper/iperceive-applying-common-sense-reasoning-to">PapersWithCode</a> | <a href="https://www.researchgate.net/publication/345970024_iPerceive_Applying_Common-Sense_Reasoning_to_Multi-Modal_Dense_Video_Captioning_and_Video_Question_Answering">ResearchGate</a> | <a href="https://www.mendeley.com/catalogue/d82d54c9-0243-3292-a9d5-a0702ed1e278//">Mendeley</a>**
 
 ```Python3 | PyTorch | CNNs | Causality | Reasoning```
 
