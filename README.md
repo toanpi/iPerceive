@@ -18,7 +18,7 @@ This is the official PyTorch implementation of our paper.
 ---
 
 We’re #1 on the video question-answering and #2 on the dense video captioning leaderboard on [PapersWithCode](https://paperswithcode.com/sota/video-question-answering-on-tvqa)!
-<a href="https://paperswithcode.com/sota/video-question-answering-on-tvqa"><p align=center><img src="https://github.com/amanchadha/iPerceive/blob/master/vidqa.png" width="450px" height="300px"/></p></a>
+<a href="https://paperswithcode.com/sota/video-question-answering-on-tvqa"><p align=center><img src="https://github.com/amanchadha/iPerceive/blob/master/vidqa.jpg" width="450px" height="300px"/></p></a>
 
 ---
 
