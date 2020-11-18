@@ -17,8 +17,8 @@ This is the official PyTorch implementation of our paper.
 ## **Explore: [iPerceive DVC](https://github.com/amanchadha/iPerceive/tree/master/iPerceiveDVC) | [iPerceive VideoQA](https://github.com/amanchadha/iPerceive/tree/master/iPerceiveVideoQA)**
 ---
 
-We’re #1 on the video question-answering and #2 on the dense video captioning leaderboard on [PapersWithCode](https://paperswithcode.com/sota/video-question-answering-on-tvqa)!
-<a href="https://paperswithcode.com/sota/video-question-answering-on-tvqa"><p align=center><img src="https://github.com/amanchadha/iPerceive/blob/master/vidqa.jpg" width="450px" height="300px"/></p></a>
+We’re #1 on the Video Question-Answering and #3 on the Dense Video Captioning leaderboard on [PapersWithCode](https://paperswithcode.com/sota/video-question-answering-on-tvqa)!
+<a href="https://paperswithcode.com/sota/video-question-answering-on-tvqa"><p align=center><img src="https://github.com/amanchadha/iPerceive/blob/master/vidqa.jpg" width="600px" height="400px"/></p></a>
 
 ---
 
