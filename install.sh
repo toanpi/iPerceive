@@ -42,7 +42,7 @@ cd apex
 python3 setup.py install --cuda_ext --cpp_ext
 cd ..
 
-# install VC
-cd VC-R-CNN
+# install iPerceive
+cd iPerceive
 python3 setup.py build develop
 
