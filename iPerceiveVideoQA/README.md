@@ -98,7 +98,8 @@ For words that we do not have an embedding for, random vectors ```np.random.rand
 <p align="center">Table 2. Results from ablation studies for iPerceive DVC and common-sense reasoning to assess their impact on the performance of iPerceive VideoQA.</p>
 
 ## Pre-trained Model
-Pre-trained model available [here](https://drive.google.com/file/d/1XCGT9U7mu7rvb7xysck6jSiu6iXEMjAE/view?usp=sharing) and included as ```best_release_7420.pth```
+
+Pre-trained model is available [here](https://drive.google.com/file/d/1V4guUifhjk69KWaiH0ss1XCnmUsp1FMR/view?usp=sharing).
 
 ## Usage
 
