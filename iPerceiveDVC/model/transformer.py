@@ -177,7 +177,7 @@ class EncoderLayer(nn.Module):
         super(EncoderLayer, self).__init__()
         self.res_layers = clone(ResidualConnection(d_model, dout_p), 2)
         # Discard encoder's self-multiheaded attention module in place for common-sense features
-        # self.self_att = MultiheadedAttention(d_model, H)
+        self.self_att = MultiheadedAttention(d_model, H)
         self.feed_forward = PositionwiseFeedForward(d_model, d_ff)
         
     def forward(self, x, src_mask): # x - (B, seq_len, d_model) src_mask (B, 1, S)
