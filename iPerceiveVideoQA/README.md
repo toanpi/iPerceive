@@ -31,10 +31,21 @@ We utilize the common-sense generation module proposed in our work to generate c
 
 ## Citation
 
-Please cite the work as:
+If you found our work interesting, please cite it as:
 
 ```
-iPerceive Publication WIP
+@article{Chadha2020iPerceive,
+  title={{i}{P}erceive: Applying Common-Sense Reasoning to Multi-Modal Dense Video Captioning and Video Question Answering},
+  author={Chadha, Aman and Arora, Gurneet and Kaloty, Navpreet},
+  journal={2021 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  pages={1-13},
+  year={2021},
+  publisher={IEEE}
+}
+```
+
+```
+A. Chadha, G. Arora and N. Kaloty. iPerceive: Applying Common-Sense Reasoning to Multi-Modal Dense Video Captioning and Video Question Answering, pp. 1–13, 2021.
 ```
 
 ## Dataset
