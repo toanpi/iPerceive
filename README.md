@@ -14,7 +14,7 @@ This is the official PyTorch implementation of our paper.
 ### Misc: **[Presentation](https://amanchadha.com/projects/ai/cnn/iPerceive.pdf) | [YouTube](https://www.youtube.com/watch?v=cLdd0vkKrBc) | <a href="https://paperswithcode.com/paper/iperceive-applying-common-sense-reasoning-to">PapersWithCode</a> | <a href="https://www.researchgate.net/publication/345970024_iPerceive_Applying_Common-Sense_Reasoning_to_Multi-Modal_Dense_Video_Captioning_and_Video_Question_Answering">ResearchGate</a> | <a href="https://www.mendeley.com/catalogue/d82d54c9-0243-3292-a9d5-a0702ed1e278//">Mendeley</a>**
 
 ---
-### **Explore: [iPerceive DVC](https://github.com/amanchadha/iPerceive/tree/master/iPerceiveDVC) | [iPerceive VideoQA](https://github.com/amanchadha/iPerceive/tree/master/iPerceiveVideoQA)**
+### **Explore: [iPerceive Dense Video Captioning](https://github.com/amanchadha/iPerceive/tree/master/iPerceiveDVC) | [iPerceive Video Question Answering](https://github.com/amanchadha/iPerceive/tree/master/iPerceiveVideoQA)**
 ---
 
 We’re #1 on the Video Question-Answering and #3 on the Dense Video Captioning leaderboard on [PapersWithCode](https://paperswithcode.com/sota/video-question-answering-on-tvqa)!
