@@ -205,7 +205,7 @@ Recall that with the pre-trained model, we can directly extract common-sense fea
 
 You don't need to! We can take care of that for you. Details from the paper below:
 **Note that since the architecture proposed in [Wang et al.](https://arxiv.org/abs/2002.12204) essentially serves as an improved visual region encoder given a region of interest (RoI) in an image, it assumes that an RoI exists and is available at test time, which reduces its effectiveness and limits its usability with new datasets that the model has never seen before. 
-We adapt their work by utilizing a pre-trained Mask R-CNN model to generate bounding boxes for RoIs for frames within each event that have been localized by the event proposal module, before feeding it to the common-sense module.**
+We adapt their work by utilizing a pre-trained Mask R-CNN model to generate bounding boxes for RoIs for frames within each event that has been localized by the event proposal module, before feeding it to the common-sense module.**
 
 The following script is a push-button mechanism to use iPerceive for feature extraction with a pre-trained model (without any need for bounding-box data):
 
