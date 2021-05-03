@@ -121,7 +121,7 @@ python -m torch.distributed.launch --nproc_per_node=$NGPUS tools/train_net.py --
 
 - Please note that the learning rate and iteration change rule follows the [scheduling rules from Detectron](https://github.com/facebookresearch/Detectron/blob/master/configs/getting_started/tutorial_1gpu_e2e_faster_rcnn_R-50-FPN.yaml#L14-L30), which means the LR needs to be set 2x if the number of GPUs become 2x. In our implementation, the learning rate is set for 4 GPUs and each GPU has 2 images.
 - In our observations, "optimizing" the learning rate is a challenging task since iPerceive training is self-supervised model and you cannot measure the goodness of the iPerceive model from training procedure by observing a particular metric. We have provided a generally suitable learning rate and leave it to the end user to tune it to their application.
-- You can turn on the **TensorBoard** logger by add `--use-tensorboard` into command (Need to install tensorflow and tensorboardx first).
+- You can turn on the **TensorBoard** logger by adding `--use-tensorboard` into command (Need to install `tensorflow` and `tensorboardx` first).
 - The confounder dictionary `dic_coco.npy` and the prior `stat_prob.npy` are located inside [tools](tools).
 
 ### Feature Extraction (a.k.a. "Inference/Testing" since this is a self-supervised setting)  
